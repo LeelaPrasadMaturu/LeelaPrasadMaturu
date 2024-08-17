@@ -20,6 +20,8 @@
     <p><b>📦 Inventory Management Tool:</b> A tool designed to help individuals and teams maximize productivity in inventory management.</p>
     <p><b>🛒 Shop Manager:</b> Billing software for recording transactions and generating yearly reports, built with Node.js, Express.js, and MongoDB.</p>
      <p><b>📈 Trading Bot:</b> Retrieves live prices and provides buy signals using Python.</p>
+  <p><b>🎥 YouTube Thumbnail Downloader:</b> A user-friendly tool for downloading YouTube thumbnails in all available sizes.</p>
+
     
    
 </div>
