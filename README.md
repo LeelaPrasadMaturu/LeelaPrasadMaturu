@@ -71,7 +71,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-    <a href="https://twitter.com/"><img src="https://x.com/LeelaPrasad04" alt="Twitter" /></a>
+    <a href="https://x.com/LeelaPrasad04"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
     <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
     <a href="https://www.linkedin.com/in/leela-prasad-maturu-6152a4256"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
