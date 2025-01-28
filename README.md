@@ -44,10 +44,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=LeelaPrasadMaturu&theme=radical&hide_border=false" alt="streak stats" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=lokeshleela04&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=LeelaPrasadMaturu&theme=radical" alt="streak stats" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=LeelaPrasadMaturu&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
     <br />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshleela04&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="top languages" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaPrasadMaturu&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="top languages" />
 </div>
 
 <p align="left">
@@ -56,7 +56,7 @@
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=lokeshleela04" alt="github profile trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=LeelaPrasadMaturu" alt="github profile trophy" />
     </a>
 </p>
 <p align="center">  <strong >Leetcode stats</strong> </p>
@@ -71,9 +71,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-    <a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+    <a href="https://twitter.com/"><img src="https://x.com/LeelaPrasad04" alt="Twitter" /></a>
     <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-    <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
     <a href="https://www.linkedin.com/in/leela-prasad-maturu-6152a4256"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 
 </p>
