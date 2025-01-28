@@ -63,7 +63,7 @@
   
 <p align="center">
   
- <img src="https://leetcard.jacoblin.cool/leela_prasad_lokesh?theme=unicorn&font=K2D&ext=heatmap" alt="github profile trophy" />
+ <img src="https://leetcard.jacoblin.cool/Leela__Prasad?theme=dark&font=Noto%20Sans%20Kannada&ext=heatmap" alt="github profile trophy" />
 </p>
 - 👨‍💻 All of my projects are available at [https://github.com/lokeshleela04](https://github.com/lokeshleela04)
 - 📫 How to reach me **leelaprasad.m22@iiits.in**
