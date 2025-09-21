@@ -1,80 +1,65 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Alkatra&size=40&duration=3000&pause=1000&color=0223F7&center=true&vCenter=true&random=false&width=435&lines=I'm+Leela+Prasad;Developer+%7C+Entrepreneur+" alt="Typing SVG" />
-</div>
+# Leela Prasad Maturu
+**Software Development Engineer · Distributed Systems · LLM-powered Apps**  
+Indian Institute of Information Technology, Sri City — B.Tech (CSE) · GPA 9.10
 
-<h1 align="center">🌟 A passionate software developer from India 🌟</h1>
+---
 
-<div align="center">
-    👋 Hi there! I'm Leela Prasad, a passionate Backend Developer on a journey to becoming a Full Stack Developer. 🚀 Open-source enthusiast and entrepreneur by heart. Currently exploring the realms of technology and code, while aiming to make a meaningful impact through my contributions. Always eager to learn and grow in the vast and dynamic world of software development. Connect with me and let's embark on this exciting journey together! 😊
-</div>
+## About
+I’m a Software Development Engineer with a focus on **scalable systems, data-driven optimization, and applied GenAI**. My projects span Node.js services, Java/Spring microservices, C/MPI distributed schedulers, and cloud-native deployments with Docker & GitHub Actions.
 
-- 🌱 I’m currently learning **React**, **Management skills**
+I believe strong engineering is not only about clean abstractions and performance, but also about **how technology connects to business and users**. I’m curious about how large corporations scale their operations, how sales and marketing influence adoption, and how trading and markets embody decision-making under uncertainty. This perspective helps me design systems with both **engineering rigor** and **business relevance**.
 
-<hr> 
+---
 
-<div align="center">
-    <h2>🚀 My Personal Projects 🚀</h2>
-    <p><b>📈 math_operations_kit:</b> A versatile Node.js module offering comprehensive math functions, from basic arithmetic to advanced operations like solving quadratic equations.</p>
-    <p><b>💬 Basic Chat:</b> A streamlined chat app featuring private rooms, real-time communication, and a scalable backend.It ensures persistent message storage and efficient performance</p>
-    <p><b>📝 Todo API:</b> A simplified to-do API created with Node.js, Express.js, and MongoDB, easily integrated into other projects.</p>
-    <p><b>📦 Inventory Management Tool:</b> A tool designed to help individuals and teams maximize productivity in inventory management.</p>
-    <p><b>🛒 Shop Manager:</b> Billing software for recording transactions and generating yearly reports, built with Node.js, Express.js, and MongoDB.</p>
-     <p><b>📈 Trading Bot:</b> Retrieves live prices and provides buy signals using Python.</p>
-  <p><b>🎥 YouTube Thumbnail Downloader:</b> A user-friendly tool for downloading YouTube thumbnails in all available sizes.</p>
+## Recent Highlights
+- Migrated enterprise backend services to **JDK 21** using OpenRewrite, improving maintainability.  
+- Optimized APIs to reduce **P95 latency by ~45%** with Redis caching and query refactoring.  
+- Built a **distributed job scheduler** in C/MPI achieving near-linear scalability (R² ≈ 0.98) and robust failure recovery.  
 
-    
-   
-</div>
-<hr>
+---
 
-## Publications
-- [A Comprehensive Guide to Mutual Funds in 2024](https://medium.com/@lp.lok.payu/mutual-funds-in-india-in-2024-a-comprehensive-guide-da4fba59e097) - An in-depth article covering the latest trends and strategies for mutual funds.
+## Skills & Tools
+**Languages:** Java · JavaScript (Node.js) · C · Python · SQL  
+**Frameworks:** Spring Boot · Express · React  
+**Data & Infra:** MongoDB · Redis · MySQL/Postgres · Docker · AWS (EC2) · GitHub Actions  
+**Domains:** Distributed Systems · System Design · LLM/NLP (Hugging Face, Cohere, Google Gemini) · Domain-Driven Design · Observability  
 
+---
 
-<hr />
+## Selected Projects
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+### ⚡ SwarmDB Scheduler — Distributed Job Scheduler
+- **Stack:** C (C99), MPI, SQLite  
+- **Key Points:** Master–worker architecture with persistent state, fault tolerance, and task re-queueing. Achieved significant throughput improvements and near-linear scaling.
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,javascript,express,mongodb,mysql,npm,postman,c,django,java,matlab,figma" />
-</div>
+### 📈 TradeWise-AI — LLM-Powered Trading Journal
+- **Stack:** Node.js, Express, MongoDB, Hugging Face, Cohere, Gemini  
+- **Key Points:** AI-driven insights for trade journaling, behavioral analytics, and decision support. Built as AI-as-a-service for multi-user workflows, blending engineering with market-facing use cases.
 
-<hr />
+### 🏨 Hotel Booking & Management Platform
+- **Stack:** Node.js, React, MongoDB, Redis, Docker, GitHub Actions  
+- **Key Points:** Domain-Driven Design architecture, integrated payments & bookings, automated CI/CD pipelines, and Redis-backed performance enhancements.
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
 
-<div align="center">
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com?user=LeelaPrasadMaturu&theme=radical" alt="streak stats" />
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=LeelaPrasadMaturu&theme=radical&show_icons=true&hide_border=false&count_private=true" alt="readme stats" />
-    <br />
-    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelaPrasadMaturu&theme=radical&show_icons=true&hide_border=false&layout=compact" alt="top languages" />
-</div>
+## Experience
+- **Caterpillar** — Software Development Intern (May 2025 – Jul 2025)  
+  Migrated backend modules to JDK 21 via OpenRewrite, resolved production bugs, and improved maintainability.  
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=lokeshleela04&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- **EasyCapital Pvt Ltd** — Backend Intern (Jul 2024 – Sep 2024)  
+  Designed caching strategies that improved API latency by ~45%. Automated deployments with GitHub Actions.  
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=LeelaPrasadMaturu" alt="github profile trophy" />
-    </a>
-</p>
-<p align="center">  <strong >Leetcode stats</strong> </p>
-  
-<p align="center">
-  
- <img src="https://leetcard.jacoblin.cool/Leela__Prasad?theme=dark&font=Noto%20Sans%20Kannada&ext=heatmap" alt="github profile trophy" />
-</p>
-- 👨‍💻 All of my projects are available at [https://github.com/lokeshleela04](https://github.com/lokeshleela04)
-- 📫 How to reach me **leelaprasad.m22@iiits.in**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.instagram.com/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-    <a href="https://x.com/LeelaPrasad04"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
-    <a href="https://discord.com/"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-    <a href="https://www.linkedin.com/in/leela-prasad-maturu-6152a4256"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+## What I Value
+- **Engineering:** Clean architecture, reproducibility, and measurable impact.  
+- **Business:** How corporations scale, how sales/marketing amplify technology, and how markets reward resilience.  
+- **Trading:** A passion that sharpens my interest in data, risk, and decision-making under pressure.  
+- **Learning:** Continuously exploring system design, business strategy, and applied LLMs.  
 
-</p>
+---
 
-<hr />
+## Quick Facts
+- **Problems solved:** 250+ (LeetCode / GfG)  
+- **Education:** IIIT Sri City — B.Tech in Computer Science (expected May 2026, top 10%)  
+- **Contact:** `leelaprasad.m22@iiits.in` · LinkedIn / GitHub / Medium  
